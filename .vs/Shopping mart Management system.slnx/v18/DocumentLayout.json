@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\shopping mart management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:shopping mart management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\auth\\firsttimesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\auth\\firsttimesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\auth\\firsttimesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\auth\\firsttimesetupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\cashier\\cashierdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\cashier\\cashierdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\cashiersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\cashiersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\auth\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\auth\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\auth\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:database\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\models\\billitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:models\\billitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\cashier\\cashierdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\cashier\\cashierdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\billingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\billingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\billingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\cashiersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\cashiersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\forms\\admin\\productsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\productsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\forms\\admin\\cashiersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:forms\\admin\\cashiersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-19T18:49:03.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-19T04:32:20.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\DbConnection.cs",
+              "RelativeDocumentMoniker": "Database\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\DbConnection.cs",
+              "RelativeToolTip": "Database\\DbConnection.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAuwLwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:46:40.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shopping mart Management system.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Shopping mart Management system.csproj",
+              "RelativeDocumentMoniker": "Shopping mart Management system.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Shopping mart Management system.csproj",
+              "RelativeToolTip": "Shopping mart Management system.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-08T04:28:54.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Database\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\BaseRepository.cs",
+              "RelativeToolTip": "Database\\BaseRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:48:18.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\BillRepository.cs",
+              "RelativeDocumentMoniker": "Database\\BillRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\BillRepository.cs",
+              "RelativeToolTip": "Database\\BillRepository.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAgwMsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:50:16.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:18:22.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:34:39.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Models\\Bill.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\Bill.cs",
+              "RelativeToolTip": "Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:36:06.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirstTimeSetupForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\FirstTimeSetupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FirstTimeSetupForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\FirstTimeSetupForm.cs",
+              "RelativeToolTip": "Forms\\Auth\\FirstTimeSetupForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwG4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T04:09:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Forms\\Auth\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:13:18.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirstTimeSetupForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\FirstTimeSetupForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FirstTimeSetupForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\FirstTimeSetupForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Auth\\FirstTimeSetupForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T03:56:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CashierDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Cashier\\CashierDashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Cashier\\CashierDashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Cashier\\CashierDashboardForm.cs",
+              "RelativeToolTip": "Forms\\Cashier\\CashierDashboardForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:25:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReportsForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\ReportsForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:52:15.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillingForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\BillingForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\BillingForm.cs",
+              "ViewState": "AgIAAAECAAAAAAAAAAAuwA4CAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:35:01.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\ProductsForm.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAuwEQBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T13:20:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CashiersForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\CashiersForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\CashiersForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:20:05.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\DashboardForm.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAuwLoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:35:48.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.cs",
+              "RelativeToolTip": "Forms\\Auth\\LoginForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:23:40.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Database\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\SessionManager.cs",
+              "RelativeToolTip": "Database\\SessionManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA+wDEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:07:25.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Database\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\ProductRepository.cs",
+              "RelativeToolTip": "Database\\ProductRepository.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAuwLIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:49:38.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Database\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\UserRepository.cs",
+              "RelativeToolTip": "Database\\UserRepository.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAuwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:48:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BillItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\BillItem.cs",
+              "RelativeDocumentMoniker": "Models\\BillItem.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\BillItem.cs",
+              "RelativeToolTip": "Models\\BillItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:32:23.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:35:26.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReceiptForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ReceiptForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReceiptForm.cs",
+              "RelativeToolTip": "Forms\\Admin\\ReceiptForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:11:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BillingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\BillingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\BillingForm.Designer.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAwwBwBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:21:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CashiersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\CashiersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\CashiersForm.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwEwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:47:33.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAwwHMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:58:06.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ProductsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\ProductsForm.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwFIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T11:48:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:20:39.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Auth\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Auth\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:09:18.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CashierDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Cashier\\CashierDashboardForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Cashier\\CashierDashboardForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Cashier\\CashierDashboardForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Cashier\\CashierDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T17:00:45.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BillingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\BillingForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\BillingForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\BillingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:31:57.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:39:20.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ProductsForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\ProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T12:53:09.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReceiptForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\ReceiptForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\ReceiptForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\ReceiptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:00:36.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CashiersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\CashiersForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Forms\\Admin\\CashiersForm.cs [Design]",
+              "RelativeToolTip": "Forms\\Admin\\CashiersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:51:23.881Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
