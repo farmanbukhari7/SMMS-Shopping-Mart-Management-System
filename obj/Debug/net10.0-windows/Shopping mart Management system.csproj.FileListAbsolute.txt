@@ -36,3 +36,4 @@ C:\Users\User\Desktop\C Program\C# Files\Shopping mart Management system\obj\Deb
 C:\Users\User\Desktop\C Program\C# Files\Shopping mart Management system\obj\Debug\net10.0-windows\Shopping_mart_Management_system.Forms.Admin.ReportsForm.resources
 C:\Users\User\Desktop\C Program\C# Files\Shopping mart Management system\obj\Debug\net10.0-windows\Shopping_mart_Management_system.Forms.Cashier.CashierDashboardForm.resources
 C:\Users\User\Desktop\C Program\C# Files\Shopping mart Management system\obj\Debug\net10.0-windows\Shopping_mart_Management_system.Forms.Auth.FirstTimeSetupForm.resources
+C:\Users\User\Desktop\C Program\C# Files\Shopping mart Management system\obj\Debug\net10.0-windows\Shopping mart Management system.sourcelink.json

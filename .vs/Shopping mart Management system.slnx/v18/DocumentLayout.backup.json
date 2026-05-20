@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|solutionrelative:deployment.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6613CDC-793D-6B25-9D9C-5C7C801160CC}|Shopping mart Management system.csproj|c:\\users\\user\\desktop\\c program\\c# files\\shopping mart management system\\database\\billrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,14 +167,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\.gitignore.txt",
-              "RelativeDocumentMoniker": ".gitignore.txt",
-              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\.gitignore.txt",
-              "RelativeToolTip": ".gitignore.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-05-19T18:49:03.894Z",
+              "Title": "DEPLOYMENT.md",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\DEPLOYMENT.md",
+              "RelativeDocumentMoniker": "DEPLOYMENT.md",
+              "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\DEPLOYMENT.md",
+              "RelativeToolTip": "DEPLOYMENT.md",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAcwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-20T04:45:54.619Z",
               "EditorCaption": ""
             },
             {
@@ -233,7 +233,7 @@
               "RelativeDocumentMoniker": "Database\\BillRepository.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\C Program\\C# Files\\Shopping mart Management system\\Database\\BillRepository.cs",
               "RelativeToolTip": "Database\\BillRepository.cs",
-              "ViewState": "AgIAAMIAAAAAAAAAAAAgwMsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAgwM8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T08:50:16.017Z",
               "EditorCaption": ""
