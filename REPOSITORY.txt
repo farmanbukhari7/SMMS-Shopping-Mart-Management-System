@@ -1,0 +1,8 @@
+﻿SMMS - Shopping Mart Management System
+Git Repository Link:
+https://github.com/farmanbukhari7/SMMS-Shopping-Mart
+
+Developer: Farman Haider Bukhari
+Roll No: 2024-ag-6593
+Course: Visual Programming (CS-412)
+Department: Computer Science, UAF
