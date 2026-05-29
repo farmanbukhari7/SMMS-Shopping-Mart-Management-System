@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shopping mart Management system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df0ff585898ccea6bad4ba9a8e13c277d264979")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bed584d845108b162438fe95f737c3a604d8b2c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shopping mart Management system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shopping mart Management system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
